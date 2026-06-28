@@ -18,9 +18,9 @@ export function Footer() {
               <Image
                 src="/jeta_logo.png"
                 alt="Jota Care Hospital"
-                width={180}
-                height={50}
-                className="h-10 w-auto object-contain brightness-0 invert"
+                width={360}
+                height={100}
+                className="h-20 w-auto object-contain brightness-0 invert"
               />
             </div>
             <p className="text-sm text-white/85 leading-relaxed">

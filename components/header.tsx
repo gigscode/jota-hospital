@@ -17,9 +17,9 @@ export function Header() {
           <Image
             src="/jeta_logo.png"
             alt="Jota Care Hospital"
-            width={320}
-            height={90}
-            className="h-16 w-auto object-contain"
+            width={640}
+            height={180}
+            className="h-24 w-auto object-contain"
             priority
           />
         </Link>

@@ -74,22 +74,7 @@ export function Hero() {
             {/* Overlay gradient */}
             <div className="absolute inset-0 bg-gradient-to-t from-[#001a4d]/70 via-[#001a4d]/20 to-transparent" />
 
-            {/* Premium badge */}
-            <div className="absolute bottom-8 left-8 right-8">
-              <div className="bg-white rounded-xl p-6 shadow-xl">
-                <p className="text-sm font-semibold text-[#001a4d] mb-3">Why Choose Jota Care?</p>
-                <div className="grid grid-cols-2 gap-3">
-                  <div>
-                    <p className="font-bold text-[#001a4d] text-lg">ISO 9001</p>
-                    <p className="text-xs text-[#4a4a4a]">Certified</p>
-                  </div>
-                  <div>
-                    <p className="font-bold text-[#001a4d] text-lg">NACA</p>
-                    <p className="text-xs text-[#4a4a4a]">Accredited</p>
-                  </div>
-                </div>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>
